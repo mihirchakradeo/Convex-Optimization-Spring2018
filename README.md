@@ -1,13 +1,3 @@
-# CSE592 Assignment 1
-Implementation of following methods: 
+# CSE 592 - Convex Optimization, Spring 2018
 
-1. Bisection
-
-2. Backtracking line search
-
-3. Gradient Descent
-
-4. Newton's method
-
-## Execution Steps:
-python3 algorithms.py
+This repository contains my solutions and implementations of optimization algorithms for the coursework of CSE 592 Convex optimization with Prof. Francesco Orabona.
